@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA6D2B16-BF44-423D-8B32-D060E2335BC2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "684DB2E1-E939-4F11-9D40-1F97E688FB3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "protocol/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "Bird"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "684DB2E1-E939-4F11-9D40-1F97E688FB3B - c35376a2b0e1f237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol.Bird.deinit"
+                  moduleName = "protocol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hae/Desktop/Developer/protocol/protocol/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3"
+                  endingLineNumber = "3"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "684DB2E1-E939-4F11-9D40-1F97E688FB3B - 99f0cae4057b2abb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol.Bird.__deallocating_deinit"
+                  moduleName = "protocol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hae/Desktop/Developer/protocol/protocol/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "684DB2E1-E939-4F11-9D40-1F97E688FB3B - 6d4fac97b505debd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol.Bird.__allocating_init() -&gt; protocol.Bird"
+                  moduleName = "protocol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hae/Desktop/Developer/protocol/protocol/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "684DB2E1-E939-4F11-9D40-1F97E688FB3B - 95ff2b96d7ede370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol.Bird.init() -&gt; protocol.Bird"
+                  moduleName = "protocol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hae/Desktop/Developer/protocol/protocol/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
